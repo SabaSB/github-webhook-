@@ -1,1 +1,3 @@
-hello riga
+#!/bin/bash
+echo "Hello Riga!"
+echo "My BUILD ID is ${BUILD_ID}"
